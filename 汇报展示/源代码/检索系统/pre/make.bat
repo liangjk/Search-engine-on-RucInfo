@@ -1,0 +1,1 @@
+g++ main.cpp function.cpp -o 1 -std=c++11

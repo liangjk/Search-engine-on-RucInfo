@@ -1,0 +1,1 @@
+g++ main.cpp function.cpp hashtable.cpp -o 1
